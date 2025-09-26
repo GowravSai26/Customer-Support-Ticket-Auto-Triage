@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+nltk
+joblib
+fastapi
+uvicorn
+faker
+requests
